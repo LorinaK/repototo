@@ -1,2 +1,3 @@
-I am creating this text to fill the newFeature file
-I am including some tests for the code
+Testing tet files
+Here I have included some changes and tests and I have fixed the bug
+This is my 3rd attempt to change something so let's do it
