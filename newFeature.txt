@@ -6,3 +6,4 @@ This is testing my command git diff
 Hi there, can you please do your job>?!!!
 =======
 >>>>>>> fa9292d28f986c89d19f36fcb64bd764efed7818
+bla bla bla
