@@ -1,1 +1,2 @@
 I am creating this text to fill the newFeature file
+I am including some tests for the code
