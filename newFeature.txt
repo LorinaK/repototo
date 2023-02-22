@@ -1,9 +1,0 @@
-Testing tet files
-Here I have included some changes and tests and I have fixed the bug
-This is my 3rd attempt to change something so let's do it
-<<<<<<< HEAD
-This is testing my command git diff
-Hi there, can you please do your job>?!!!
-=======
->>>>>>> fa9292d28f986c89d19f36fcb64bd764efed7818
-bla bla bla
